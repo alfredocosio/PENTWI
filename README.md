@@ -1,2 +1,2 @@
 # PENTWI
-Programa de Entrenamiento de Tecnologías Web
+Programa de Entrenamiento de Tecnologías Web - Intermedio
